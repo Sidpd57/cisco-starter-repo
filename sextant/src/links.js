@@ -1,5 +1,5 @@
 import Banner from "./components/Banner";
+import Card from "./components/Card";
 import Exhibit from "./components/Exhibit";
-import Gallery from "./components/Gallery";
 
-export {Banner, Exhibit, Gallery}
+export {Banner, Card, Exhibit}

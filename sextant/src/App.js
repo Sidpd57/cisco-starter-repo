@@ -1,10 +1,10 @@
-import { Banner, Gallery} from "./links";
+import { Banner, Exhibit} from "./links";
 
 function App() {
   return (
     <>
     <Banner/>
-    <Gallery/>
+    <Exhibit/>
     </>
   );
 }
